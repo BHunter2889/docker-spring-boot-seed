@@ -7,7 +7,7 @@ This is a project seed for Spring Boot java applications running inside of a Doc
 Pull the project using git
 
 ```
-git clone https://github.com/JesseGinnever/docker-spring-boot-seed.git
+git clone https://github.com/BHunter2889/docker-spring-boot-seed.git
 ```
 
 ### Install Docker
